@@ -14,3 +14,6 @@ For instance:
 	CarsByModelAndAge_Golf_3_Years.txt, 
 	CarsByYearAndPrice_2018_PriceAbove_18000.0.txt
 	
+	
+Integrated Development Environment (IDE) used is Eclipse IDE for Java Developers
+	
